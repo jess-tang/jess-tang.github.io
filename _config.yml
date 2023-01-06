@@ -98,7 +98,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo:               jess-tang/jess-tang.github.io
-    repo_id:            R_kgDOIf83Gw
+    repo_id:            570373915
     category:           Announcements
     category_id:        DIC_kwDOIf83G84CTbu2
     mapping:            pathname
